@@ -1,5 +1,1 @@
-# mynostr.id by halfin labs
-
-halfin labs is an unorganised colective for making and publishing Bitcoin and decentralised software.
-
-for fun.
+Halfin Labs is a software company that aims to bring Bitcoin, decentralisation and open networks to the masses.
